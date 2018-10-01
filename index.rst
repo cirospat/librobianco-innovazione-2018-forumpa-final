@@ -9,7 +9,7 @@ Il `libro bianco <https://forumpa-librobianco-innovazione-2018.readthedocs.io>`_
 
 .. raw:: html
 
-    <strong><span style="background-color: #126da5; color: #ffffff; display: inline-block; padding: 2px 8px; border-radius: 10px;">Questa è sla versione finale partecipata del libro bianco</span></strong>
+    <strong><span style="background-color: #126da5; color: #ffffff; display: inline-block; padding: 2px 8px; border-radius: 10px;">Questa è la versione finale partecipata del libro bianco</span></strong>
     <p></p>
 
 Il repository di questo documento  si trova a questo  `link <https://github.com/RedazioneFPA/librobianco-innovazione-2018-forumpa-final>`_.
