@@ -22,7 +22,7 @@ Il repository di questo documento  si trova a questo `link <https://github.com/R
 .. toctree::
   :maxdepth: 2
 
-  Home <https://schema-tipo.readthedocs.io>
+  Home <https://github.com/RedazioneFPA/librobianco-innovazione-2018-forumpa-final>
 
 
 .. toctree::  
