@@ -1,30 +1,22 @@
-Titolo del Read the Docs
+Libro bianco sull’innovazione della PA
 *********************
 
-``cultura della documentazione`` 
+
+Il Libro bianco sull’innovazione della Pubblica Amministrazione è il risultato di un percorso collaborativo promosso da FPA con l’obiettivo di costruire un’agenda dell’innovazione per la nuova legislatura.
+
+Il `libro bianco <https://forumpa-librobianco-innovazione-2018.readthedocs.io>`_  è stato in consultazione dal  ..... al 15 settembre 2018 e sono stati registrati n...... commenti.
+
 
 .. raw:: html
 
-    <strong><span style="background-color: #126da5; color: #ffffff; display: inline-block; padding: 2px 8px; border-radius: 10px;">Questa è solo una bozza</span></strong>
+    <strong><span style="background-color: #126da5; color: #ffffff; display: inline-block; padding: 2px 8px; border-radius: 10px;">Questa è sla versione finale partecipata del libro bianco</span></strong>
     <p></p>
 
-Il repository dello **schema tipo RTD** si trova a questo  `link <https://github.com/cirospat/rtd-schematipo>`_, da potere clonare per progetti di documentazione online.
-
-Questo **Read the Docs** è uno schema tipo ottimizzato (per design e setting vari) per la pubblicazione di documenti. Settaggi quali colore della colonna sinistra e colori del testo dei paragrafi, titoli, ecc., possono essere cambiati nel file ``theme_override.css``.
-
-Altre impostazioni di visualizzazione grafica del documento su Read the Docs possono essere effettuate sui seguenti file, all'interno della cartella ``_templates``:
-
-- ``breadcrumbs.html``
-- ``footer.html``
-- ``layout.html``
-- ``searchbox.html``
-- ``versions.html``
+Il repository di questo documento  si trova a questo  `link <https://github.com/RedazioneFPA/librobianco-innovazione-2018-forumpa-final>`_.
 
 
-..  Important:: 
-    
-    questa visualizzazione è costruita su pagine di ``Google Doc``, che grazie al plugin ``GGeditor`` vengono pubblicate automaticamente in formato ``RST`` → su un progetto repository dentro ``Github``, che a sua volta espone i contenuti (automaticamente) → su pagine HTML con il design ``Read the Docs``. Qui il `tutorial <http://googledocs.readthedocs.io/it/latest/>`_.
-    
+
+   
 
 
 .. toctree::
@@ -35,7 +27,7 @@ Altre impostazioni di visualizzazione grafica del documento su Read the Docs pos
 
 .. toctree::  
     :maxdepth: 2
-    :caption: Profile
+    :caption: Introduzione
 
     social-profile
     work-profile
@@ -43,7 +35,7 @@ Altre impostazioni di visualizzazione grafica del documento su Read the Docs pos
 
 .. toctree::  
     :maxdepth: 2
-    :caption: Risorse
+    :caption: Contenuti
 
     tutorial
     mappe
@@ -52,7 +44,7 @@ Altre impostazioni di visualizzazione grafica del documento su Read the Docs pos
 
 .. toctree::  
     :maxdepth: 2
-    :caption: Palermo
+    :caption: Contributi
 
     open-data
     servizi-digitali
@@ -60,7 +52,7 @@ Altre impostazioni di visualizzazione grafica del documento su Read the Docs pos
 
 .. toctree::  
     :maxdepth: 2
-    :caption: External links
+    :caption: Team
 
     fondamentali
 
