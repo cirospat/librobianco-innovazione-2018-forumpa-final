@@ -13,7 +13,7 @@ __version__ = '1.0'
 
 source_suffix = '.rst'
 master_doc = 'index'
-project = 'Libro bianco partecipato sull´innovazione della Pubblica Amministrazione'
+project = 'Libro bianco sull´innovazione della Pubblica Amministrazione, versione partecipata'
 copyright = 'CC BY NC SA'
 
 # The name of the Pygments (syntax highlighting) style to use.
