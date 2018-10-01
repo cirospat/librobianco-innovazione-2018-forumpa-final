@@ -39,12 +39,12 @@
 
 /* setta i colori dei titoli dei capitoli, paragrafi, ecc. */
 h1, h2, h3 {
-    color: #098748 !important;
+    color: #095287 !important;
 }
 
 /* reattangolo in alto a sinistra dove c'è il logo e il titolo del RTD */
 .wy-side-nav-search {
-    background-color: #098748;
+    background-color: #095287;
 }
 
 /* testo caption menu sx - setta i colori dell'indice nel menu a sx */
