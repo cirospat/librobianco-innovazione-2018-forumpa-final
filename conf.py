@@ -13,8 +13,8 @@ __version__ = '1.0'
 
 source_suffix = '.rst'
 master_doc = 'index'
-project = 'schema tipo RTD'
-copyright = 'change-me'
+project = 'Libro bianco partecipato sull´innovazione della Pubblica Amministrazione'
+copyright = 'CC BY NC SA'
 
 # The name of the Pygments (syntax highlighting) style to use.
 pygments_style = 'sphinx'
